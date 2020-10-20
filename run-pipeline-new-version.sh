@@ -1,6 +1,6 @@
 tkn pipeline start knative-pipeline  \
   -p application=quarkus-hello-world \
-  -p source-repo-url=https://github.com/dsanchor/quarkus-hello-world.git \
+  -p source-repo-url=https://github.com/mmartofel/quarkus-hello-world.git \
   -p source-revision=c076ee940b1f1d9576b7af3250bbbd7114e82263\
   -p short-source-revision=c076ee9 \
   -p deployment-repo-url=https://github.com/mmartofel/quarkus-hello-world-deployment.git \
